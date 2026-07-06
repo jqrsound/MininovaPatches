@@ -16,7 +16,7 @@ Also note that these patches are very noisy and loud, so turn the **Master Volum
 
 Some Animate Pads will increase the general volume due to distortions; this is a deliberate dynamic effect. **Do not try any patch wearing headphones.**
 
-## Presets
+## Presets and commands
 
 ### Mostok
 - **Tweak 1:** Ring Modulation 1*3 Level
